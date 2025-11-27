@@ -29,16 +29,18 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 
 ## 📫 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/mj-vinz-carlos-villaraiz-01bb60322" target="_blank">
+  <a href="https://www.linkedin.com/in/mj-vinz-carlos-villaraiz-01bb60322">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/emmmmjeyyy" target="_blank">
+  <a href="https://www.instagram.com/emmmmjeyyy">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:emjeywan@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emjeywan@gmail.com&su=Hi%20Emmjeyyyy&body=Hello%20MJ!" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </div>
+
 
 ---
 

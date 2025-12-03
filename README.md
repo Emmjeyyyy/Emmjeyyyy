@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 ---
 
 ## 🛠 Skills & Tools
-- **Languages:** JavaScript, TypeScript, Python, C++
-- **Frameworks/Libraries:** React, React Native, Node.js
-- **Game Dev:** Phaser, Unity (basic)
+- **Languages:** JavaScript, TypeScript, Python, C++, C#, Java, PHP, Kotlin  
+- **Frameworks/Libraries:** React, React Native, Node.js, Laravel  
+- **Game Dev:** Phaser, Unity (basic)  
 - **Other Tools:** Git, GitHub, Firebase, Tailwind CSS
+
 
 ---
 

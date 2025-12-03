@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 ## 💻 About Me
 - 🌱 I’m currently learning advanced JavaScript, React, and game development
 - 🎮 I love creating small games and interactive experiences
-- ⚡ Fun fact: I have a habit of turning bugs into features
+- ⚡ I have a habit of turning bugs into features
 
 ---
 

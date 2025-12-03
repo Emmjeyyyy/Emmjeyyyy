@@ -55,5 +55,9 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 
 ## GitHub Contributions
 <div align="center">
-  <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/Emmjeyyyy/Emmjeyyyy/output/github-snake-dark.svg" width="1000"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emmjeyyyy/Emmjeyyyy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emmjeyyyy/Emmjeyyyy/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Emmjeyyyy/Emmjeyyyy/output/github-snake.svg" />
+  </picture>
 </div>

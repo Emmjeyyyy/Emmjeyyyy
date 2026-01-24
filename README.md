@@ -33,9 +33,6 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   <a href="https://www.instagram.com/emmmmjeyyy">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emjeywan@gmail.com&su=Hi%20Emmjeyyyy&body=Hello%20MJ!" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
 
 </div>

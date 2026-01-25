@@ -42,13 +42,37 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 
 ## 🌟 Featured Projects
 <div align="center">
-  <a href="https://test-game-drab.vercel.app/" target="_blank">
-    <img alt="Game Project" src="https://img.shields.io/badge/Game_Project-PlayNow-blue?style=for-the-badge"/>
+
+  <!-- Flagship / Playable Projects -->
+  <a href="https://dungeon-crawler-game-eosin.vercel.app" target="_blank">
+    <img alt="Blood Echoes Game" src="https://img.shields.io/badge/Blood_Echoes_Game-Play_Now-red?style=for-the-badge"/>
   </a>
+
+  <a href="https://test-game-drab.vercel.app/" target="_blank">
+    <img alt="Test Game Project" src="https://img.shields.io/badge/Game_Project-PlayNow-blue?style=for-the-badge"/>
+  </a>
+
+  <!-- High-Utility Tools -->
+  <a href="https://ror2-save-editor.vercel.app" target="_blank">
+    <img alt="RoR2 Save Editor" src="https://img.shields.io/badge/RoR2_Save_Editor-Edit_Saves-purple?style=for-the-badge"/>
+  </a>
+
+  <!-- Learning / Practice Apps -->
+  <a href="https://kanji-terminal.vercel.app" target="_blank">
+    <img alt="Kanji Terminal" src="https://img.shields.io/badge/Kanji_Terminal-Open_Terminal-black?style=for-the-badge"/>
+  </a>
+
+  <a href="https://kanablitz.vercel.app" target="_blank">
+    <img alt="KanaBlitz" src="https://img.shields.io/badge/KanaBlitz-Practice_Japanese-orange?style=for-the-badge"/>
+  </a>
+
+  <!-- Profile / Misc -->
   <a href="https://github.com/Emmjeyyyy" target="_blank">
     <img alt="Other Project" src="https://img.shields.io/badge/Other_Project-Explore-purple?style=for-the-badge"/>
   </a>
+
 </div>
+
 
 ---
 

@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   <img
     height="180"
     alt="GitHub Streak"
-    src="https://nirzak-streak-stats.vercel.app/?user=Emmjeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00cc66&fire=00ff88&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
+    src="https://nirzak-streak-stats.vercel.app/?user=Emmjeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=ff9f1c&fire=ff9f1c&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
   />
   <img
     height="180em"

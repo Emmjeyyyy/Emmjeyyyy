@@ -23,22 +23,28 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 ## 📈 GitHub Stats
 
 <div align="center">
-
   <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Emmjeyyyy&show_icons=true&count_private=true&theme=radical"
-  />
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmjeyyyy&layout=compact&theme=radical"
-  />
-  <img
+    height="180"
     alt="GitHub Streak"
-    src="https://nirzak-streak-stats.vercel.app/?user=Emmjeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff1493&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
+    src="https://nirzak-streak-stats.vercel.app/?user=Emmjeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00cc66&fire=00ff88&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
   />
-
-
+  <img
+    height="180em"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmjeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9"
+  />
 </div>
+
+<div align="center">
+  <img
+    width="95%"
+    alt="Contribution Timeline"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00ff88&line=00cc66&point=86efac&area_color=00ff88&area=true&hide_border=true&radius=10"
+  />
+</div>
+
+
+
 
 ---
 
@@ -107,10 +113,6 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 
 ## GitHub Contributions
 <div align="center">
-  <img
-    alt="Contribution Timeline"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=22c55e&line=16a34a&point=86efac&area_color=22c55e&area=true&hide_border=true&radius=10"
-  />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emmjeyyyy/Emmjeyyyy/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emmjeyyyy/Emmjeyyyy/output/github-snake.svg" />

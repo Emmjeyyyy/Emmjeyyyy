@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   <img
     width="95%"
     alt="Contribution Timeline"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00ff88&line=00cc66&point=86efac&area_color=00ff88&area=true&hide_border=true&radius=10"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00ff88&line=00cc66&point=86efac&area_color=00ff88&area=true&hide_border=true&radius=8"
   />
 </div>
 

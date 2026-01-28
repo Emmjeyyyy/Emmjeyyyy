@@ -1,5 +1,6 @@
 # 👋 Hi, I’m @Emmjeyyyy
 
+
 Welcome to my GitHub profile! I’m passionate about coding, creating cool projects, and sharing my journey.  
 
 ---

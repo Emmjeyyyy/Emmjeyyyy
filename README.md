@@ -24,6 +24,15 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Emmjeyyyy&show_icons=true&count_private=true&theme=radical"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmjeyyyy&layout=compact&theme=radical"/>
+  <img
+    alt="GitHub Streak"
+    src="https://nirzak-streak-stats.vercel.app/?user=Emmjeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff1493&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
+  />
+  
+  <img
+    alt="Contribution Timeline"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true&radius=10"
+  />
 </div>
 
 ---

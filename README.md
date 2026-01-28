@@ -52,10 +52,18 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
     <img alt="Test Game Project" src="https://img.shields.io/badge/Game_Project-PlayNow-blue?style=for-the-badge"/>
   </a>
 
+  <br/>
+
   <!-- High-Utility Tools -->
   <a href="https://ror2-save-editor.vercel.app" target="_blank">
     <img alt="RoR2 Save Editor" src="https://img.shields.io/badge/RoR2_Save_Editor-Edit_Saves-purple?style=for-the-badge"/>
   </a>
+
+  <a href="https://srt-gen-em.vercel.app" target="_blank">
+    <img alt="SRT-GEN" src="https://img.shields.io/badge/SRT--GEN-Generate_Subtitles-green?style=for-the-badge"/>
+  </a>
+
+  <br/>
 
   <!-- Learning / Practice Apps -->
   <a href="https://kanji-terminal.vercel.app" target="_blank">
@@ -66,12 +74,19 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
     <img alt="KanaBlitz" src="https://img.shields.io/badge/KanaBlitz-Practice_Japanese-orange?style=for-the-badge"/>
   </a>
 
+  <a href="https://anime-series-directory.vercel.app/" target="_blank">
+    <img alt="Anime Series Directory" src="https://img.shields.io/badge/Anime_Series_Directory-Browse_Anime-pink?style=for-the-badge"/>
+  </a>
+
+  <br/>
+
   <!-- Profile / Misc -->
   <a href="https://github.com/Emmjeyyyy" target="_blank">
     <img alt="Other Project" src="https://img.shields.io/badge/Other_Project-Explore-purple?style=for-the-badge"/>
   </a>
 
 </div>
+
 
 
 ---

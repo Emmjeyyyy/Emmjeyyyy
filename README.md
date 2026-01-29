@@ -76,6 +76,11 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   <br/>
 
   <!-- High-Utility Tools -->
+
+  <a href="https://dota-terminal.vercel.app" target="_blank">
+    <img alt="Dota Terminal" src="https://img.shields.io/badge/Dota_Terminal-Open_Terminal-00ff88?style=for-the-badge"/>
+  </a>
+  
   <a href="https://ror2-save-editor.vercel.app" target="_blank">
     <img alt="RoR2 Save Editor" src="https://img.shields.io/badge/RoR2_Save_Editor-Edit_Saves-purple?style=for-the-badge"/>
   </a>

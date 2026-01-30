@@ -113,8 +113,9 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 
 </div>
 
-
-
+<div align="center">
+  <h3>はじめまして、えむじぇいです！</h3>
+</div>
 ---
 
 ## GitHub Contributions

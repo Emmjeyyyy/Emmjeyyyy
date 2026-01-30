@@ -1,4 +1,14 @@
+<div align="center">
+  <h1>はじめまして、えむじぇいです！</h1>
+</div>
 
+<div align="center">
+  <img
+    src="https://i.pinimg.com/736x/63/7e/54/637e54ddf32f3f59cae9e97bc6af1968.jpg"
+    alt="Chaeyoung"
+    width="300"
+  />
+</div>
 
 
 
@@ -135,14 +145,3 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
     src="https://capsule-render.vercel.app/api?type=waving&color=01311f&height=65&section=footer&width=1200"
   />
 </p>
-<div align="center">
-  <h1>はじめまして、えむじぇいです！</h1>
-</div>
-
-<div align="center">
-  <img
-    src="https://media.tenor.com/-tVryjewiAEAAAAM/chaeyoung-chaeyoung-twice.gif"
-    alt="Chaeyoung"
-    width="300"
-  />
-</div>

@@ -1,5 +1,18 @@
-<h1>👋 Hi, I’m @Emmjeyyyy</h1>
+<div align="center">
+  <h1>こんにちは、ようこそ！</h1>
+</div>
 
+<div align="center">
+  <img
+    src="https://media.tenor.com/-tVryjewiAEAAAAM/chaeyoung-chaeyoung-twice.gif"
+    alt="Chaeyoung"
+    width="300"
+  />
+</div>
+
+
+
+<h1>👋 Hi, I’m @Emmjeyyyy</h1>
 
 
 Welcome to my GitHub profile! I’m passionate about coding, creating cool projects, and sharing my journey.  

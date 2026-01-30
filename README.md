@@ -1,4 +1,12 @@
-# 👋 Hi, I’m @Emmjeyyyy
+<div align="center">
+  <img
+    src="https://media.tenor.com/-tVryjewiAEAAAAM/chaeyoung-chaeyoung-twice.gif"
+    alt="Profile Banner"
+    width="200"
+  />
+</div>
+<h1>👋 Hi, I’m @Emmjeyyyy</h1>
+
 
 
 Welcome to my GitHub profile! I’m passionate about coding, creating cool projects, and sharing my journey.  

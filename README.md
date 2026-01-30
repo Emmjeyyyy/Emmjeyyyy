@@ -139,3 +139,9 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Emmjeyyyy/Emmjeyyyy/output/github-snake.svg" />
   </picture>
 </div>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=01311f&height=65&section=footer&width=1200"
+  />
+</p>

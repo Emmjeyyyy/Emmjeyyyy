@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>こんにちは、ようこそ！</h1>
+  <h1>はじめまして、えむじぇいです！</h1>
 </div>
 
 <div align="center">

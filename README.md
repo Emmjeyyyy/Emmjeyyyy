@@ -1,17 +1,3 @@
-<div align="center">
-  <h1>はじめまして、えむじぇいです！</h1>
-</div>
-
-<div align="center">
-  <img
-    src="https://i.pinimg.com/736x/63/7e/54/637e54ddf32f3f59cae9e97bc6af1968.jpg"
-    alt="Chaeyoung"
-    width="300"
-  />
-</div>
-
-
-
 <h1>👋 Hi, I’m @Emmjeyyyy</h1>
 
 

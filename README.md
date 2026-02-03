@@ -101,7 +101,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   </a>
 
   <a href="https://anime-series-directory.vercel.app/" target="_blank">
-    <img alt="Anime Series Directory" src="https://img.shields.io/badge/Anime_Series_Directory-Browse_Anime-pink?style=for-the-badge"/>
+    <img alt="Anime Series Directory" src="https://img.shields.io/badge/Anime_Series_Directory-Browse_Anime-980519?style=for-the-badge"/>
   </a>
 
   <a href="https://gigavry.vercel.app/#/free-games" target="_blank">

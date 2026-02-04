@@ -73,7 +73,6 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
     <img alt="Test Game Project" src="https://img.shields.io/badge/Game_Project-PlayNow-blue?style=for-the-badge"/>
   </a>
 
-  <br/>
 
   <!-- High-Utility Tools -->
 
@@ -97,7 +96,6 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   </a>
 
 
-  <br/>
 
   <!-- Learning / Practice Apps -->
   <a href="https://kanji-terminal.vercel.app" target="_blank">
@@ -119,7 +117,6 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   />
   </a>
 
-  <br/>
 
   <!-- Profile / Misc -->
   <a href="https://github.com/Emmjeyyyy" target="_blank">

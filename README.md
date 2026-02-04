@@ -120,7 +120,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 
   <!-- Profile / Misc -->
   <a href="https://github.com/Emmjeyyyy" target="_blank">
-    <img alt="Other Project" src="https://img.shields.io/badge/Other_Project-Explore-purple?style=for-the-badge"/>
+    <img alt="Other Project" src="https://img.shields.io/badge/Other_Project-Explore-332791?style=for-the-badge"/>
   </a>
 
 </div>

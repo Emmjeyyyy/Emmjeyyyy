@@ -89,6 +89,14 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
     <img alt="SRT-GEN" src="https://img.shields.io/badge/SRT--GEN-Generate_Subtitles-078971?style=for-the-badge"/>
   </a>
 
+  <a href="https://hue-kai.vercel.app/" target="_blank">
+    <img 
+      alt="HUEKAI Generate Color" 
+      src="https://img.shields.io/badge/HUEKAI-Generate_Color-ff2f92?style=for-the-badge"
+    />
+  </a>
+
+
   <br/>
 
   <!-- Learning / Practice Apps -->

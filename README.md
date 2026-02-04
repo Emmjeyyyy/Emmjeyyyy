@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   </a>
   
   <a href="https://ror2-save-editor.vercel.app" target="_blank">
-    <img alt="RoR2 Save Editor" src="https://img.shields.io/badge/RoR2_Save_Editor-Edit_Saves-#162C5A?style=for-the-badge"/>
+    <img alt="RoR2 Save Editor" src="https://img.shields.io/badge/RoR2_Save_Editor-Edit_Saves-162C5A?style=for-the-badge"/>
   </a>
 
   <a href="https://srt-gen-em.vercel.app" target="_blank">

@@ -91,7 +91,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
 
   <a href="https://hue-kai.vercel.app/" target="_blank">
     <img 
-      alt="HUEKAI Generate Color" 
+      alt="HUEKAI" 
       src="https://img.shields.io/badge/HUEKAI-Generate_Color-ff2f92?style=for-the-badge"
     />
   </a>

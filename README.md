@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @Emmjeyyyy</h1>
 
 
-Welcome to my GitHub profile! I’m passionate about coding, creating cool projects, and sharing my journey.  
+Welcome to my GitHub profile! I’m passionate about coding, creating small projects, and sharing my journey.  
 
 ---
 

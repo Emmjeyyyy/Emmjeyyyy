@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 
 ## 🛠 Skills & Tools
 - **Languages:** TypeScript, JavaScript, Python, C#, Java, PHP, Kotlin  
-- **Frameworks/Libraries:** React, Next.js, React Native, Node.js, Laravel  
+- **Frameworks/Libraries:** Laravel, React, Next.js, React Native, Node.js  
 - **Game Dev:** Phaser, Unity (basic)  
-- **Other Tools:** Git, GitHub, Firebase, Tailwind CSS
+- **Other Tools:** Git, GitHub, GitHub Desktop, Firebase, Tailwind CSS
 
 
 ---

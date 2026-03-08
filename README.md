@@ -113,7 +113,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating cool proje
   <a href="https://interdimensional-codex.vercel.app/#/" target="_blank">
   <img 
     alt="Interdimensional Codex" 
-    src="https://img.shields.io/badge/Interdimensional_Codex-Rick_&_Morty_Wiki-328E1F?style=for-the-badge"
+    src="https://img.shields.io/badge/Interdimensional_Codex-Rick_&_Morty_Wiki-0075FA?style=for-the-badge"
   />
 </a>
 

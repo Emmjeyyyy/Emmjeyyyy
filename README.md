@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 ---
 
 ## 💻 About Me
-- 🌱 I’m currently learning advanced JavaScript, React, and game development
-- 🎮 I love creating small games and interactive experiences
+- 🌱 I’m currently learning Laravel, React, and Three.js for web and interactive 3D development
+- 🎮 I love creating small game projects and interactive experiences
 - ⚡ I have a habit of turning bugs into features
 
 ---

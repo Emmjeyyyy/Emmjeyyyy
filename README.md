@@ -22,8 +22,11 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 ---
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://emm-github-stats.vercel.app/api/streak?username=Emmjeyyyy&accent=3fb950&bg=0d1117&text=c9d1d9&w=506&h=220&v=1775401286664)
+![GitHub Stats](https://emm-github-stats.vercel.app/api/langs?username=Emmjeyyyy&bg=0d1117&text=c9d1d9&w=435&h=220&v=1775401630111)
 
-<div align="center">
+
+<!-- <div align="center">
   <img
     height="180"
     alt="GitHub Streak"
@@ -34,11 +37,11 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmjeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9"
   />
-</div>
+</div> -->
 
 <div align="center">
   <img
-    width="95%"
+    width="100%"
     alt="Contribution Timeline"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00ff88&line=00cc66&point=86efac&area_color=00ff88&area=true&hide_border=true&radius=8"
   />

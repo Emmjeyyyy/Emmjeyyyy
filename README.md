@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://emm-github-stats.vercel.app/api/streak?username=Emmjeyyyy&accent=3fb950&bg=0d1117&text=c9d1d9&w=500&h=220&v=1775401286664)
-![GitHub Stats](https://emm-github-stats.vercel.app/api/langs?username=Emmjeyyyy&bg=0d1117&text=c9d1d9&w=435&h=220&v=1775401630111)
+![GitHub Stats](https://emm-github-stats.vercel.app/api/langs?username=Emmjeyyyy&bg=0d1117&text=c9d1d9&w=400&h=220&v=1775401630111)
 
 
 <!-- <div align="center">

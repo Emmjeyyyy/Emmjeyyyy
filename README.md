@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 ---
 
 ## 📈 GitHub Stats
-
+<!--
 ![GitHub Stats](https://emm-github-stats.vercel.app/api/streak?username=Emmjeyyyy&accent=00cc66&bg=0d1117&text=c9d1d9&w=507&h=220&v=1775401286664)
 ![GitHub Stats](https://emm-github-stats.vercel.app/api/langs?username=Emmjeyyyy&accent=12de78&bg=0d1117&text=c9d1d9&w=335&h=220&v=1775402771624)
-
+-->
 
 <!-- <div align="center">
   <img

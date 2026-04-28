@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 ![GitHub Stats](https://emm-github-stats.vercel.app/api/langs?username=Emmjeyyyy&accent=12de78&bg=0d1117&text=c9d1d9&w=335&h=220&v=1775402771624)
 -->
 
-<!-- <div align="center">
+<div align="center">
   <img
     height="180"
     alt="GitHub Streak"
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmjeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9"
   />
-</div> -->
+</div> 
 
 <div align="center">
   <img

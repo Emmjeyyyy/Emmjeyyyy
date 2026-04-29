@@ -29,20 +29,20 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 ![GitHub Stats](https://emm-github-stats.vercel.app/api/streak?username=Emmjeyyyy&accent=00cc66&bg=0d1117&text=c9d1d9&w=507&h=220&v=1775401286664)
 ![GitHub Stats](https://emm-github-stats.vercel.app/api/langs?username=Emmjeyyyy&accent=12de78&bg=0d1117&text=c9d1d9&w=335&h=220&v=1775402771624)
 -->
-<!--
+
 <div align="center">
   <img
     height="180"
     alt="GitHub Streak"
-    src="https://nirzak-streak-stats.vercel.app/?user=Emmjeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=ff9f1c&fire=ff9f1c&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
+    src="https://streak-stats.demolab.com/?user=EmmJeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=ff9f1c&fire=ff9f1c&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
   />
   <img
-    height="180em"
+    height="180"
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmjeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmJeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9"
   />
-</div> 
--->
+</div>
+
 <div align="center">
   <img
     width="100%"

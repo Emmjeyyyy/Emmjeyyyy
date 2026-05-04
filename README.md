@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 
 <div align="center">
   <img
-    width="390"
+    width="400"
     alt="GitHub Streak"
     src="https://streak-stats.demolab.com/?user=EmmJeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=ff9f1c&fire=ff9f1c&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
   />

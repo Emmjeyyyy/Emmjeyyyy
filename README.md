@@ -1,6 +1,5 @@
 <h1>👋 Hi, I’m @Emmjeyyyy</h1>
 
-
 Welcome to my GitHub profile! I’m passionate about coding, creating small projects, and sharing my journey.  
 
 ---
@@ -21,26 +20,20 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 - **3D & Graphics:** Blender, WebGL  
 - **Tools & Platforms:** Git, GitHub, GitHub Desktop, Firebase  
 
-
 ---
 
 ## 📈 GitHub Stats
-<!--
-![GitHub Stats](https://emm-github-stats.vercel.app/api/streak?username=Emmjeyyyy&accent=00cc66&bg=0d1117&text=c9d1d9&w=507&h=220&v=1775401286664)
-![GitHub Stats](https://emm-github-stats.vercel.app/api/langs?username=Emmjeyyyy&accent=12de78&bg=0d1117&text=c9d1d9&w=335&h=220&v=1775402771624)
--->
 
 <div align="center">
+
   <img
     height="180"
     alt="GitHub Streak"
     src="https://streak-stats.demolab.com/?user=EmmJeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=ff9f1c&fire=ff9f1c&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
   />
-  <img
-    height="180"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmJeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9"
-  />
+
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EmmJeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9&include_all_commits=true&count_private=true)
+
 </div>
 
 <div align="center">
@@ -51,9 +44,6 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   />
 </div>
 
-
-
-
 ---
 
 ## 📫 Connect with Me
@@ -61,10 +51,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   <a href="https://www.instagram.com/emmmmjeyyy">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-
 </div>
-
 
 ---
 
@@ -80,9 +67,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
     <img alt="Test Game Project" src="https://img.shields.io/badge/Game_Project-PlayNow-blue?style=for-the-badge"/>
   </a>
 
-
   <!-- High-Utility Tools -->
-
   <a href="https://dota-terminal.vercel.app" target="_blank">
     <img alt="Dota Terminal" src="https://img.shields.io/badge/Dota_Terminal-Open_Terminal-008849?style=for-the-badge"/>
   </a>
@@ -96,13 +81,8 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   </a>
 
   <a href="https://hue-kai.vercel.app/" target="_blank">
-    <img 
-      alt="HUEKAI" 
-      src="https://img.shields.io/badge/HUEKAI-Generate_Color-ff2f92?style=for-the-badge"
-    />
+    <img alt="HUEKAI" src="https://img.shields.io/badge/HUEKAI-Generate_Color-ff2f92?style=for-the-badge"/>
   </a>
-
-
 
   <!-- Learning / Practice Apps -->
   <a href="https://kanji-terminal.vercel.app" target="_blank">
@@ -118,21 +98,14 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   </a>
 
   <a href="https://interdimensional-codex.vercel.app/#/" target="_blank">
-  <img 
-    alt="Interdimensional Codex" 
-    src="https://img.shields.io/badge/Interdimensional_Codex-Rick_&_Morty_Wiki-0075FA?style=for-the-badge"
-  />
-</a>
-
-  <a href="https://gigavry.vercel.app/#/free-games" target="_blank">
-  <img 
-    alt="GigaVry" 
-    src="https://img.shields.io/badge/GigaVry-Free_Games_&_Drops-4a3b9e?style=for-the-badge"
-  />
+    <img alt="Interdimensional Codex" src="https://img.shields.io/badge/Interdimensional_Codex-Rick_&_Morty_Wiki-0075FA?style=for-the-badge"/>
   </a>
 
+  <a href="https://gigavry.vercel.app/#/free-games" target="_blank">
+    <img alt="GigaVry" src="https://img.shields.io/badge/GigaVry-Free_Games_&_Drops-4a3b9e?style=for-the-badge"/>
+  </a>
 
-  <!-- Profile / Misc -->
+  <!-- Profile -->
   <a href="https://github.com/Emmjeyyyy?tab=repositories" target="_blank">
     <img alt="Other Project" src="https://img.shields.io/badge/Other_Project-Explore-332791?style=for-the-badge"/>
   </a>
@@ -153,7 +126,5 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 </div>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=01311f&height=65&section=footer&width=1200"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=01311f&height=65&section=footer&width=1200"/>
 </p>

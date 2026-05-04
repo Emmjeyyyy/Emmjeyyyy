@@ -25,22 +25,15 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 ## 📈 GitHub Stats
 
 <div align="center">
-
   <img
-    height="180"
+    width="600"
     alt="GitHub Streak"
     src="https://streak-stats.demolab.com/?user=EmmJeyyyy&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=ff9f1c&fire=ff9f1c&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8"
   />
-
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EmmJeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
   <img
-    width="100%"
-    alt="Contribution Timeline"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00ff88&line=00cc66&point=86efac&area_color=00ff88&area=true&hide_border=true&radius=8"
+    width="400"
+    alt="Top Languages"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=EmmJeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9&include_all_commits=true&count_private=true"
   />
 </div>
 

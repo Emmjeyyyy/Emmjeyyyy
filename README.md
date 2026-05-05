@@ -36,6 +36,13 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=EmmJeyyyy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9&include_all_commits=true&count_private=true"
   />
 </div>
+<div align="center">
+  <img
+    width="100%"
+    alt="Contribution Timeline"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Emmjeyyyy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00ff88&line=00cc66&point=86efac&area_color=00ff88&area=true&hide_border=true&radius=8"
+  />
+</div>
 
 ---
 

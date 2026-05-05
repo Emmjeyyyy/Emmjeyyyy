@@ -99,7 +99,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   </a>
 
   <a href="https://emm-lab.vercel.app" target="_blank">
-    <img alt="EMM Lab" src="https://img.shields.io/badge/EMM_Lab-Experimental_Lab-6C5CE7?style=for-the-badge"/>
+    <img alt="EMM Lab" src="https://img.shields.io/badge/EMM_Lab-UI Resources-6C5CE7?style=for-the-badge"/>
   </a>
 
   <!-- Profile -->

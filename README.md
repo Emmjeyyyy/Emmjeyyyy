@@ -98,6 +98,10 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
     <img alt="GigaVry" src="https://img.shields.io/badge/GigaVry-Free_Games_&_Drops-4a3b9e?style=for-the-badge"/>
   </a>
 
+  <a href="https://emm-lab.vercel.app" target="_blank">
+    <img alt="EMM Lab" src="https://img.shields.io/badge/EMM_Lab-Experimental_Lab-6C5CE7?style=for-the-badge"/>
+  </a>
+
   <!-- Profile -->
   <a href="https://github.com/Emmjeyyyy?tab=repositories" target="_blank">
     <img alt="Other Project" src="https://img.shields.io/badge/Other_Project-Explore-332791?style=for-the-badge"/>

@@ -9,6 +9,13 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 - 🎮 I love creating small game projects and interactive experiences
 - ⚡ I have a habit of turning bugs into features
 
+## 🌐 Portfolio
+<div align="center">
+  <a href="https://mj-villaraiz-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-View-1f6feb?style=for-the-badge"/>
+  </a>
+</div>
+
 ---
 
 ## 🛠 Skills & Tools

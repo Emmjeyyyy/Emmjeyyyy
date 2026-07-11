@@ -70,15 +70,19 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
     <img alt="Blood Echoes Game" src="https://img.shields.io/badge/Blood_Echoes_Game-Play_Now-red?style=for-the-badge"/>
   </a>
 
+  <a href="https://invokergame.vercel.app/" target="_blank">
+    <img alt="Invoker Spell Trainer" src="https://img.shields.io/badge/Invoker_Spell_Trainer-Play_Now-7B3FE4?style=for-the-badge"/>
+  </a>
+
   <a href="https://test-game-drab.vercel.app/" target="_blank">
-    <img alt="Test Game Project" src="https://img.shields.io/badge/Game_Project-PlayNow-blue?style=for-the-badge"/>
+    <img alt="Test Game Project" src="https://img.shields.io/badge/Game_Project-Play_Now-blue?style=for-the-badge"/>
   </a>
 
   <!-- High-Utility Tools -->
   <a href="https://dota-terminal.vercel.app" target="_blank">
     <img alt="Dota Terminal" src="https://img.shields.io/badge/Dota_Terminal-Open_Terminal-008849?style=for-the-badge"/>
   </a>
-  
+
   <a href="https://ror2-save-editor.vercel.app" target="_blank">
     <img alt="RoR2 Save Editor" src="https://img.shields.io/badge/RoR2_Save_Editor-Edit_Saves-162C5A?style=for-the-badge"/>
   </a>
@@ -89,6 +93,10 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 
   <a href="https://hue-kai.vercel.app/" target="_blank">
     <img alt="HUEKAI" src="https://img.shields.io/badge/HUEKAI-Generate_Color-ff2f92?style=for-the-badge"/>
+  </a>
+
+  <a href="https://rift-gen-emm.vercel.app/" target="_blank">
+    <img alt="Animated Scroll Transition" src="https://img.shields.io/badge/Animated_Scroll_Transition-View_Demo-00B8D9?style=for-the-badge"/>
   </a>
 
   <!-- Learning / Practice Apps -->
@@ -113,12 +121,12 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   </a>
 
   <a href="https://emm-lab.vercel.app" target="_blank">
-    <img alt="EMM Lab" src="https://img.shields.io/badge/EMM_Lab-UI Resources-6C5CE7?style=for-the-badge"/>
+    <img alt="EMM Lab" src="https://img.shields.io/badge/EMM_Lab-UI_Resources-6C5CE7?style=for-the-badge"/>
   </a>
 
   <!-- Profile -->
   <a href="https://github.com/Emmjeyyyy?tab=repositories" target="_blank">
-    <img alt="Other Project" src="https://img.shields.io/badge/Other_Project-Explore-332791?style=for-the-badge"/>
+    <img alt="Other Project" src="https://img.shields.io/badge/Other_Projects-Explore-332791?style=for-the-badge"/>
   </a>
 
 </div>

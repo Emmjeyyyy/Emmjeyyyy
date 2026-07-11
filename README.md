@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   </a>
 
   <a href="https://invokergame.vercel.app/" target="_blank">
-    <img alt="Invoker Game" src="https://img.shields.io/badge/Invoker_Spell_Trainer-Play_Now-7B3FE4?style=for-the-badge"/>
+    <img alt="Invoker Game" src="https://img.shields.io/badge/Invoker Game-Play_Now-7B3FE4?style=for-the-badge"/>
   </a>
 
   <a href="https://test-game-drab.vercel.app/" target="_blank">
@@ -96,7 +96,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
   </a>
 
   <a href="https://rift-gen-emm.vercel.app/" target="_blank">
-    <img alt="RIFT GEN" src="https://img.shields.io/badge/Animated_Scroll_Transition-View_Demo-00B8D9?style=for-the-badge"/>
+    <img alt="RIFT GEN" src="https://img.shields.io/badge/RIFT GEN-View_Demo-00B8D9?style=for-the-badge"/>
   </a>
 
   <!-- Learning / Practice Apps -->

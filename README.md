@@ -132,7 +132,7 @@ Welcome to my GitHub profile! I’m passionate about coding, creating small proj
 </div>
 
 <div align="center">
-  <h3>はじめまして、えむじぇいです！</h3>
+  <h3>はじめまして、エムジェイです！</h3>
 </div>
 
 ## GitHub Contributions
